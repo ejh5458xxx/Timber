@@ -2,6 +2,7 @@
 #include <sstream>
 #include <SFML/Graphics.hpp>
 #include <SFML/Audio.hpp>
+#include <iostream>
 
 // Make code easier to type with "using namespace"
 using namespace sf;
